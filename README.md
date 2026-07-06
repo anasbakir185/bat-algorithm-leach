@@ -36,7 +36,7 @@ Simulations conducted in MATLAB show that single-hop BA-LEACH improves the stabi
 
 ## Prerequisites
 
-- MATLAB (developed and tested with MATLAB R20XX, update to your version)
+- MATLAB (developed and tested with MATLAB R2015b)
 
 ## How to Run
 
