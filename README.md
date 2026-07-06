@@ -3,7 +3,7 @@
 Graduation project, Communication Engineering Department, College of Electronic Technology, Tripoli, Libya.
 Spring 2026.
 
-**Student:** Anas Fauzi Bakeer (ID: 211288)
+**Student:** Anas Fauzi Bakeer
 **Supervisor:** Dr. Ebtisam Mohamed Elgdiri
 
 ## Abstract
